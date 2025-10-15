@@ -31,3 +31,5 @@ type Allotment = "ailse" | "middle" | "last";
 
 let mySeaat: Allotment = "ailse";
 // let myNewSeat : Allotment = "newseat"; // gives error
+
+export {}
