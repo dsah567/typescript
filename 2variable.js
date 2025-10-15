@@ -1,0 +1,10 @@
+let greetings = "Hello,  EveryOne";
+let num1 = 1;
+let num2 = 20;
+let num3 = new Number(100);
+const flag = false;
+console.log(greetings);
+console.log(typeof (num1));
+console.log(typeof (num2));
+console.log(typeof (num3));
+export {};
